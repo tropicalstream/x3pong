@@ -5,6 +5,13 @@ Free software, licensed under the GNU GPL v3 (see LICENSE). Derived from
 
 Two games in one, chosen on the opening screen.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="x3pong title screen with mode and skill selectors">
+  <img src="images/gameplay.png" width="45%" alt="x3pong court mid-match with score">
+</p>
+
 ## Controls
 
 | gesture | menu | in play |
